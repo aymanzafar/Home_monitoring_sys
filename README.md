@@ -5,8 +5,8 @@
 ### 📚 Microprocessor and Interfacing Laboratory Project  
 **Group:** 02  
 **University:** United International University  
-**Semester:** Spring/Summer/Apr 2023  
-**Supervisor:** [Include if applicable]
+**Semester:** Apr 2024  
+**Supervisor:** 
 
 ---
 
