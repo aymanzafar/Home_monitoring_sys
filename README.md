@@ -6,7 +6,7 @@
 **Group:** 02  
 **University:** United International University  
 **Semester:** Apr 2024  
-**Supervisor:** 
+**Supervisor:** Raiyan Basher, Lecturer at United International University
 
 ---
 
